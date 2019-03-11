@@ -1,5 +1,4 @@
 # fibigibi
 tattoo visit card website
 
-
-in progress...
+http://fibigibi.com/
